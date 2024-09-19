@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "cpf": 1,
+        "nome": "Nome: Zumbi",
+        "tipo": "Tipo: Agressivo",
+        "altura": "Altura: 2 blocos",
+        "fraqueza": "Fraqueza: Sol",
+        "img": "<img src='https://pt.minecraft.wiki/images/UpdatedZombie.png?a4ca8'>"
+    },
+
+    {
+        "id": 2,
+        "cpf": 2,
+        "nome": "Nome: Esqueleto",
+        "tipo": "Tipo: Agressivo",
+        "altura": "Altura: 2 blocos",
+        "fraqueza": "Fraqueza: Sol",
+        "img": "<img src='https://i.pinimg.com/originals/f4/45/be/f445be6a0cc4d005f316ca5843fd30f9.png'>"
+    },
+
+    {
+        "id": 3,
+        "cpf": 3,
+        "nome": "Nome: Aranha",
+        "tipo": "Tipo: Agressivo",
+        "altura": "Altura: 1 blocos",
+        "fraqueza": "Fraqueza: Encantamento",
+        "img": "<img src='https://preview.redd.it/omxy6o5efse31.png?auto=webp&s=a15a6285b927973b79bf076418b3f6ccf82d2a74'>"
+    },
+
+    {
+        "id": 4,
+        "cpf": 4,
+        "nome": "Nome: Creeper",
+        "tipo": "Tipo: Agressivo",
+        "altura": "Altura: 1.7 blocos",
+        "fraqueza": "Fraqueza: Gato",
+        "img": "<img src='https://i.pinimg.com/originals/93/0f/f8/930ff888cdc8ad0bd80edfb447ea9c7d.png'>"
+    },
+
+    {
+        "id": 5,
+        "cpf": 5,
+        "nome": "Nome: Enderman",
+        "tipo": "Tipo: Agressivo",
+        "altura": "Altura: 3 blocos",
+        "fraqueza": "Fraqueza: Água",
+        "img": "<img src='https://i.pinimg.com/originals/f9/d0/40/f9d0402d9e293e6c67a02d358ba1a5b7.png'>"
+    },
+
+     {
+        "id": 6,
+        "cpf": 6,
+        "nome": "Nome: Villager",
+        "tipo": "Tipo: Pacífico",
+        "altura": "Altura: 2 blocos",
+        "fraqueza": "Fraqueza: Zombies",
+        "img": "<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c728a8b5-e8c0-45e5-8848-6909b9531b6c/dd2u3u1-5b31d136-b7d9-4209-9ef8-1bd97a2bf81b.png/v1/fill/w_1280,h_1032/villager__3d__by_fortnermations_dd2u3u1-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAzMiIsInBhdGgiOiJcL2ZcL2M3MjhhOGI1LWU4YzAtNDVlNS04ODQ4LTY5MDliOTUzMWI2Y1wvZGQydTN1MS01YjMxZDEzNi1iN2Q5LTQyMDktOWVmOC0xYmQ5N2EyYmY4MWIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.8swk6Xdtr4eOeU8jEUy2s4ahAtbPzj-PPERrTSgDeII'>"
+    },
+
+    {
+        "id": 7,
+        "cpf": 7,
+        "nome": "Nome: Iron Golem",
+        "tipo": "Tipo: Pacífico",
+        "altura": "Altura: 3 blocos",
+        "fraqueza": "Fraqueza: Player em cima de 3 blocos",
+        "img": "<img src='https://media.minecraftforum.net/attachments/319/213/637347402486498703.png'>"
+    },
+
+    {
+        "id": 8,
+        "cpf": 8,
+        "nome": "Nome: Ghast",
+        "tipo": "Tipo: Agressivo",
+        "altura": "Altura: 4 blocos",
+        "fraqueza": "Fraqueza: Arco e Flecha",
+        "img": "<img src='https://img1.picmix.com/output/stamp/normal/3/8/1/1/2551183_53056.png'>"
+    },
+
+    {
+        "id": 9,
+        "cpf": 9,
+        "nome": "Nome: Blaze",
+        "tipo": "Tipo: Agressivo",
+        "altura": "Altura: 1.8 blocos",
+        "fraqueza": "Fraqueza: bola de neve/água",
+        "img": "<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/27dbbda7-320b-488b-b8cb-6d993296f095/dgbll53-e01e91af-0dc6-4551-ad4f-7b524949bafc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI3ZGJiZGE3LTMyMGItNDg4Yi1iOGNiLTZkOTkzMjk2ZjA5NVwvZGdibGw1My1lMDFlOTFhZi0wZGM2LTQ1NTEtYWQ0Zi03YjUyNDk0OWJhZmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kkLpL4kFXM9KbS6D6ll1y2A9sw7a5ANWjct8Q_K9kmY'>"
+    },
+
+    {
+        "id": 10,
+        "cpf": 10,
+        "nome": "Nome: Ender Dragon",
+        "tipo": "Tipo: Agressivo",
+        "altura": "Altura: 8 blocos",
+        "fraqueza": "Fraqueza: Player com camas",
+        "img": "<img src='https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/5/5a/Ender_Dragon.png'>"
+    }
+]
